@@ -1,0 +1,13 @@
+{
+  "name": "node-typescript-interfaces-repositoires-services-docker-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "concurrently 'tsc -w' 'nodemon index.js' ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amaitsakingsley@gmail.com",
+  "license": "ISC"
+}
